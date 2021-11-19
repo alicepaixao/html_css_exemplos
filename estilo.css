@@ -1,0 +1,19 @@
+h4{
+
+    color:aqua;
+}
+label {
+    color: blue;
+    width: 30%;
+}
+label {
+    color:orange;
+    width: 30%;
+}
+label {
+    color:pink;
+    width: 30%;
+}
+fieldset{
+    width: 50%;
+}
