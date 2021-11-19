@@ -1,0 +1,14 @@
+- HTML CSS Support
+Valida CSS e suporta estilos externos
+- HTML preview 
+Para pré visualizar as edições feitas em seu código html 
+- HTML Snippets 
+Dá cor ao codigo HTML, auto-complete e identacao 
+- Beautify
+É um dos plugins mais utilizados  pelos devs, ele melhora a visualização do código, tornando ele identado para arquivos json, html, css e javascript.
+vscode icons
+Cria ícones para cada tecnologia que for usada, ajudando na organização.
+- Debugger (for Chrome, Mozilla depende do seu navegador)
+Ajuda a depurar ocódigo javascripts em Da para percorrer o caminho de todo código e restrear aonde está o erro.
+Auto import
+Nesta extensão, os imports serão localizados, analisados e irão autocompletar a importação que está sendo chamada.-
